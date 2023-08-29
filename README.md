@@ -8,3 +8,9 @@ Observe como criar uma estrutura tipo matriz, sem envolver matrizes (nativas da 
 ![mat03](https://github.com/caua-3301/estrutura-matriz/assets/134548536/54bbd413-ccf7-407b-9df1-1c250657a106)
 ## Exemplo prático da criação de uma matriz
 ![mat04](https://github.com/caua-3301/estrutura-matriz/assets/134548536/50bd27b1-0d5b-4e67-9fda-3c2033911bfc)
+<p>Tecnologias utilizadas:</p>
+<ul>
+  <li>C</li>
+</ul>
+
+<p>Observação: Como um defensor do clean code, todo o projeto está comentado e devidamente indentado, aqui é Cauã falando e até a próxima :)</p>
